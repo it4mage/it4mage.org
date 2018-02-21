@@ -15,6 +15,10 @@ git:
         url: https://github.com/getgrav/grav-theme-antimatter
         path: user/themes/antimatter
         branch: master
+    it4mage-theme:
+        url: https://github.com/it4mage/grav-theme-it4mage.git
+        path: user/themes/it4mage-theme
+        branch: master
 links:
     problems:
         src: grav-plugin-problems
