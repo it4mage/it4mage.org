@@ -1,7 +1,7 @@
 absolute_urls: false
 
 home:
-  alias: '/home'
+  alias: '/chi-siamo'
 
 pages:
   theme: it4mage-theme
