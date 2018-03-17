@@ -12,25 +12,41 @@ row_one:
       img: "https://secure.gravatar.com/avatar/10d56357933b7fe9403e076e1a618ad5?s=250"
       github: https://github.com/giuseppemorelli
       twitter: https://twitter.com/giuseppemorelli
-    - name: 
+    - name: Andra Lungu
       job: 
       img: 
       github: 
       twitter:       
-#row_two:
-#    - name: 
-#      job: 
-#      img: 
-#      github: 
-#      twitter:
-#    - name: 
-#      job: 
-#      img: 
-#      github: 
-#      twitter:
-#    - name: 
-#      job: 
-#      img: 
-#      github: 
-#      twitter:                          
+row_two:
+    - name: Riccardo Tempesta
+      job: 
+      img: 
+      github: 
+      twitter:
+    - name: Manuele Menozzi
+      job: 
+      img: 
+      github: 
+      twitter:
+    - name: Michele Fantetti
+      job: 
+      img: 
+      github: 
+      twitter:
+row_three:
+    - name: Antonio Carboni
+      job: 
+      img: 
+      github: 
+      twitter:
+    - name: Marco Giorgetti
+      job: 
+      img: 
+      github: 
+      twitter:
+    - name: 
+      job: 
+      img: 
+      github: 
+      twitter:                                
 ---
