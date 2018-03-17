@@ -8,4 +8,5 @@ content:
         custom:
             - _title
             - _body
+            - _people
 ---
