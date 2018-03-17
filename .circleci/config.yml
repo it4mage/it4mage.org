@@ -1,0 +1,28 @@
+version: 2
+jobs:
+  deploy:
+    docker:
+      - image: gmdotnet/php-deploy:2.1
+
+    working_directory: ~/it4mage.org/
+
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "37:25:05:ef:bf:df:30:c6:e1:eb:c4:9c:d2:14:67:e4"
+      - checkout
+      - run:
+          command: |
+              mkdir -p ~/.ssh
+              touch ~/.ssh/known_hosts
+              echo "$LIVE_HOST_SSH_KEYSCAN" >> ~/.ssh/known_hosts
+              export HOST_DEPLOY_PATH=$LIVE_HOST_DEPLOY_PATH
+              export BUCKET_COMMIT=$CIRCLE_SHA1
+              export ENV=production
+              /bin/bash pipelines/bin/deploy.sh
+
+workflows:
+  version: 2
+  it4mage-flow:
+    jobs:
+      - deploy

@@ -1,0 +1,7 @@
+{
+  "name": "it4mage/deploy",
+  "type": "project",
+  "require": {
+    "deployer/deployer": "6.1.0"
+  }
+}
