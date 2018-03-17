@@ -15,35 +15,35 @@ row_one:
     - name: Andra Lungu
       job: 
       img: 
-      github: 
-      twitter:       
+      github: https://github.com/springerin
+      twitter: https://twitter.com/iamspringerin
 row_two:
     - name: Riccardo Tempesta
       job: 
       img: 
-      github: 
-      twitter:
+      github: https://github.com/phoenix128 
+      twitter: https://twitter.com/RicTempesta
     - name: Manuele Menozzi
       job: 
       img: 
-      github: 
-      twitter:
+      github: https://github.com/mmenozzi
+      twitter: https://twitter.com/mmenozzi
     - name: Michele Fantetti
       job: 
       img: 
-      github: 
-      twitter:
+      github: https://github.com/WaPoNe 
+      twitter: https://twitter.com/WaP_oNe
 row_three:
     - name: Antonio Carboni
       job: 
       img: 
-      github: 
-      twitter:
+      github: https://github.com/antoniocarboni 
+      twitter: https://twitter.com/antoniocarboni_
     - name: Marco Giorgetti
       job: 
       img: 
       github: 
-      twitter:
+      twitter: https://twitter.com/midimarcus
     - name: 
       job: 
       img: 
