@@ -29,8 +29,8 @@ row_two:
       github: https://github.com/mmenozzi
       twitter: https://twitter.com/mmenozzi
     - name: Michele Fantetti
-      job: 
-      img: 
+      job: Magento Contributor
+      img: https://avatars1.githubusercontent.com/u/11091926?s=400&u=a902c8b0fc25f6a7a8c313616209de0889ddae72&v=4
       github: https://github.com/WaPoNe 
       twitter: https://twitter.com/WaP_oNe
 row_three:
