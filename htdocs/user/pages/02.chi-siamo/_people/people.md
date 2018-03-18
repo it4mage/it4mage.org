@@ -24,8 +24,8 @@ row_two:
       github: https://github.com/phoenix128 
       twitter: https://twitter.com/RicTempesta
     - name: Manuele Menozzi
-      job: 
-      img: 
+      job: Magento Backend Developer
+      img: https://www.gravatar.com/avatar/8c6973dad7179d7238b6e42adc8add08?s=250
       github: https://github.com/mmenozzi
       twitter: https://twitter.com/mmenozzi
     - name: Michele Fantetti
