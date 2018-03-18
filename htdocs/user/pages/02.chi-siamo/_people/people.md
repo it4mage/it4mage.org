@@ -3,7 +3,7 @@ title: Il gruppo IT4Mage
 subtitle: conosci i membri attivi del team
 row_one:
     - name: Alessandro Ronchi
-      job: Magento Specialist, Author, and Entrepreneu
+      job: Magento Master and Contributor
       img: "https://secure.gravatar.com/avatar/b658dc5874aaf4f8626a6f2a08819f54?s=250"
       github: https://github.com/aleron75
       twitter: https://twitter.com/aleron75
