@@ -14,13 +14,13 @@ row_one:
       twitter: https://twitter.com/giuseppemorelli
     - name: Andra Lungu
       job: 
-      img: 
+      img: https://pbs.twimg.com/profile_images/881139556392873984/TRpWuWs2_400x400.jpg
       github: https://github.com/springerin
       twitter: https://twitter.com/iamspringerin
 row_two:
     - name: Riccardo Tempesta
       job: 
-      img: 
+      img: https://pbs.twimg.com/profile_images/697465368756019201/Hzw8Q6Xr_400x400.jpg
       github: https://github.com/phoenix128 
       twitter: https://twitter.com/RicTempesta
     - name: Manuele Menozzi
@@ -36,15 +36,15 @@ row_two:
 row_three:
     - name: Antonio Carboni
       job: 
-      img: 
+      img: https://pbs.twimg.com/profile_images/1774409180/Schermata_2012-01-23_a_03.06.20_400x400.png
       github: https://github.com/antoniocarboni 
       twitter: https://twitter.com/antoniocarboni_
     - name: Marco Giorgetti
       job: 
-      img: 
+      img: https://pbs.twimg.com/profile_images/603635873217916928/hy46tkdv_400x400.jpg
       github: 
       twitter: https://twitter.com/midimarcus
-    - name: 
+    - name:
       job: 
       img: 
       github: 
