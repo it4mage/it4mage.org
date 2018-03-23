@@ -35,7 +35,7 @@ row_two:
       twitter: https://twitter.com/WaP_oNe
 row_three:
     - name: Antonio Carboni
-      job: 
+      job: Magento Master and Frontend Developer
       img: https://pbs.twimg.com/profile_images/1774409180/Schermata_2012-01-23_a_03.06.20_400x400.png
       github: https://github.com/antoniocarboni 
       twitter: https://twitter.com/antoniocarboni_
