@@ -44,9 +44,9 @@ row_three:
       img: https://pbs.twimg.com/profile_images/603635873217916928/hy46tkdv_400x400.jpg
       github: 
       twitter: https://twitter.com/midimarcus
-    - name:
+    - name: Alessandro Scavella
       job: 
-      img: 
-      github: 
+      img: https://commercehero-klhvktpbebpskj.netdna-ssl.com/img/uploaded/0c87be384024430de04d50ed28e2f6e7.jpg
+      github: https://github.com/elachino
       twitter:                                
 ---
