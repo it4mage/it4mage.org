@@ -2,7 +2,7 @@ version: 2
 jobs:
   deploy:
     docker:
-      - image: gmdotnet/php-deploy:2.1
+      - image: gmdotnet/php-deploy:7.0
 
     working_directory: ~/it4mage.org/
 
