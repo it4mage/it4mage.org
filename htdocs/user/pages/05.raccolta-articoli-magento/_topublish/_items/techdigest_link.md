@@ -1,0 +1,32 @@
+---
+
+article:
+    comefareper:
+        -
+            title: 
+            author: 
+            link: 
+            source: 
+            category:
+            tags: 
+                -                                                                                             
+    informazioni:
+        -
+            title: 
+            author: 
+            link: 
+            source: 
+            category:
+            tags: 
+                -                       
+    eventi:
+        -
+            title: 
+            author: 
+            link: 
+            source: 
+            category:
+            tags: 
+                -                
+
+---

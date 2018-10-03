@@ -1,7 +1,7 @@
 ---
 
-title: "Sommario del 01 Ottobre 2018"
-date: '01-10-2018'
+title: "Sommario del <>"
+date: '01-01-2018'
 
 content:
     items: @self.modular
